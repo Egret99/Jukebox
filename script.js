@@ -215,7 +215,7 @@ const memory = new Song({
     name: "Lost One's Memories",
     author: "Sasi Bell",
     url: "./assets/music/Lost_One's_Memories.mp3",
-    cover: "./assets/cover/Lost_One's_Memories.jpg"
+    cover: "./assets/cover/Lost_one's_Memories.jpg"
 });
 
 const ceeday = new Song({
